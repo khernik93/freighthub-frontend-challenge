@@ -45,7 +45,7 @@
       ],
       "mode": "sea",
       "type": "FCL",
-      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "destination": "Saarbr�cker Str. 38, 10405 Berlin",
       "origin": "Ningbo port",
       "services": [
         {
@@ -85,7 +85,7 @@
     },
     {
       "id": "S1003",
-      "name": "New Furnitures from Shengen(2018)",
+      "name": "New Furnitures from Shengen(2018)aaa",
       "cargo": [
         {
           "type": "Couch22 White",
@@ -159,7 +159,7 @@
     },
     {
       "id": "S1006",
-      "name": "Vacuum Cleaners",
+      "name": "Vacuum Cleanerssssss",
       "cargo": [
         {
           "type": "TVAC515",
